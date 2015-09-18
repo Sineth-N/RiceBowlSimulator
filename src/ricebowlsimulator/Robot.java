@@ -31,6 +31,6 @@ public class Robot {
     }
 
     public void orderUp(FoodItem foodItem) {
-        System.out.println("Test");
+       
     }
 }
